@@ -1,0 +1,11 @@
+body {
+    height: 5000px;
+}
+div {
+    width: 0;
+    height: 5px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: chocolate;
+}
